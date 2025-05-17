@@ -1,3 +1,3 @@
 # simple-pc-crasher
-simple pc crasher by bat files
+simple pc crasher by bat files,
 extract them and run test.bat
